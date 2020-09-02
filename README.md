@@ -1,8 +1,9 @@
 # git force push 
+
 git remote set-url origin https://github.com/MyRepo/project.git
 git add .
 git commit -m "force push"
-git push origin master --force
+git push origin master --force.
 
 # Covid19Tracker
 

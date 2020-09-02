@@ -1,3 +1,9 @@
+# git force push 
+git remote set-url origin https://github.com/MyRepo/project.git
+git add .
+git commit -m "force push"
+git push origin master --force
+
 # Covid19Tracker
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 9.1.9.
